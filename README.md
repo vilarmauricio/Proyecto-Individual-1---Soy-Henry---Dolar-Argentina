@@ -6,13 +6,18 @@ Con estos datos se elaboró un informe sobre el análisis obtenido (Informe.pptx
 Herramientas Utilizadas:
 - Python: Librerias:
                     Pandas
+                    
                     Datetime
+                    
                     Numpy
+                    
                     Requests
+                    
                     Matplotlib
+                    
                     Sklearn
                     
-  - PowerPoint
+ - PowerPoint
 
 
 
